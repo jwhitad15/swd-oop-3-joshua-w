@@ -20,4 +20,6 @@ public class Book extends LibraryItem{
         return super.toString() + "\nPage Count: " + pageCount;
         }
 
+    public void readBook() {
+    }
 }
